@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Google-Translate-API
  * New API Library for Google translate V2 in PHP 
